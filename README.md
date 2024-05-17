@@ -52,4 +52,4 @@
 
 #### Удаление займа
 
-`Путь: GET /api/loans/{id}`
+`Путь: DELETE /api/loans/{id}`
